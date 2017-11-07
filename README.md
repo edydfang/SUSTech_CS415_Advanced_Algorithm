@@ -7,3 +7,4 @@
 - Topic 3: Set Cover Problem
 - Topic 4: Vertex Cover Problem
 - Topic 5: Vertex Cover Problem: Use of LP
+- Topic 7: Disjoint Paths Problems & Greedy Paths with Capacity
